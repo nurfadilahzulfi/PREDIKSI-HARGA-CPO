@@ -294,7 +294,7 @@ def show_footer():
         """
         <div style='text-align: center; color: gray;'>
         <p>Aplikasi Prediksi Harga CPO menggunakan LSTM Neural Network</p>
-        <p>⚠️ Prediksi ini hanya untuk referensi dan tidak menjamin akurasi 100%</p>
+        <p>⚠️ Prediksi ini hanya untuk referensi dan tidak menjamin akurasi 100% dikarenakan keterbatasan data dan proses pelatihan model</p>
         </div>
         """,
         unsafe_allow_html=True
