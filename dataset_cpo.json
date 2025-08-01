@@ -1,0 +1,1935 @@
+{
+    "data": {
+        "averageTotal": 13915.68,
+        "averageAsingTotal": 921.73,
+        "averageKurs": 15097.43,
+        "latestCpoValue": 14625,
+        "latestCpoDate": "2025-07-30",
+        "latestKursValue": 16399,
+        "latestKursDate": "2025-07-30",
+        "years": [
+            {
+                "year": 2024,
+                "months": [
+                    {
+                        "month": 5,
+                        "average": 12220.22,
+                        "averageAsing": 759.23,
+                        "detail": [
+                            {
+                                "tanggal": "2024-05-02",
+                                "value": 12050,
+                                "kurs": 16202,
+                                "valueAsing": 743.74
+                            },
+                            {
+                                "tanggal": "2024-05-03",
+                                "value": 11978,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2024-05-06",
+                                "value": 12018,
+                                "kurs": 16025,
+                                "valueAsing": 749.95
+                            },
+                            {
+                                "tanggal": "2024-05-07",
+                                "value": 12182,
+                                "kurs": 16054,
+                                "valueAsing": 758.81
+                            },
+                            {
+                                "tanggal": "2024-05-08",
+                                "value": 12155,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2024-05-13",
+                                "value": 12116,
+                                "kurs": 16085,
+                                "valueAsing": 753.25
+                            },
+                            {
+                                "tanggal": "2024-05-14",
+                                "value": 12108,
+                                "kurs": 16131,
+                                "valueAsing": 750.6
+                            },
+                            {
+                                "tanggal": "2024-05-15",
+                                "value": 12156,
+                                "kurs": 16070,
+                                "valueAsing": 756.44
+                            },
+                            {
+                                "tanggal": "2024-05-16",
+                                "value": 12021,
+                                "kurs": 15944,
+                                "valueAsing": 753.95
+                            },
+                            {
+                                "tanggal": "2024-05-17",
+                                "value": 12190,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2024-05-20",
+                                "value": 12188,
+                                "kurs": 15980,
+                                "valueAsing": 762.7
+                            },
+                            {
+                                "tanggal": "2024-05-21",
+                                "value": 12208,
+                                "kurs": 16024,
+                                "valueAsing": 761.86
+                            },
+                            {
+                                "tanggal": "2024-05-22",
+                                "value": 12172,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2024-05-27",
+                                "value": 12188,
+                                "kurs": 16064,
+                                "valueAsing": 758.72
+                            },
+                            {
+                                "tanggal": "2024-05-28",
+                                "value": 12389,
+                                "kurs": 16095,
+                                "valueAsing": 769.74
+                            },
+                            {
+                                "tanggal": "2024-05-29",
+                                "value": 12535,
+                                "kurs": 16160,
+                                "valueAsing": 775.68
+                            },
+                            {
+                                "tanggal": "2024-05-30",
+                                "value": 12588,
+                                "kurs": 16253,
+                                "valueAsing": 774.5
+                            },
+                            {
+                                "tanggal": "2024-05-31",
+                                "value": 12722,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            }
+                        ]
+                    },
+                    {
+                        "month": 6,
+                        "average": 12672.06,
+                        "averageAsing": 774.76,
+                        "detail": [
+                            {
+                                "tanggal": "2024-06-03",
+                                "value": 12735,
+                                "kurs": 16225,
+                                "valueAsing": 784.9
+                            },
+                            {
+                                "tanggal": "2024-06-04",
+                                "value": 12408,
+                                "kurs": 16220,
+                                "valueAsing": 764.98
+                            },
+                            {
+                                "tanggal": "2024-06-05",
+                                "value": 12438,
+                                "kurs": 16282,
+                                "valueAsing": 763.91
+                            },
+                            {
+                                "tanggal": "2024-06-06",
+                                "value": 12507,
+                                "kurs": 16279,
+                                "valueAsing": 768.29
+                            },
+                            {
+                                "tanggal": "2024-06-07",
+                                "value": 12648,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2024-06-10",
+                                "value": 12558,
+                                "kurs": 16290,
+                                "valueAsing": 770.9
+                            },
+                            {
+                                "tanggal": "2024-06-11",
+                                "value": 12539,
+                                "kurs": 16295,
+                                "valueAsing": 769.5
+                            },
+                            {
+                                "tanggal": "2024-06-12",
+                                "value": 12715,
+                                "kurs": 16297,
+                                "valueAsing": 780.2
+                            },
+                            {
+                                "tanggal": "2024-06-13",
+                                "value": 12700,
+                                "kurs": 16286,
+                                "valueAsing": 779.81
+                            },
+                            {
+                                "tanggal": "2024-06-14",
+                                "value": 12787,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2024-06-19",
+                                "value": 12795,
+                                "kurs": 16368,
+                                "valueAsing": 781.71
+                            },
+                            {
+                                "tanggal": "2024-06-20",
+                                "value": 12790,
+                                "kurs": 16420,
+                                "valueAsing": 778.93
+                            },
+                            {
+                                "tanggal": "2024-06-24",
+                                "value": 12757,
+                                "kurs": 16431,
+                                "valueAsing": 776.4
+                            },
+                            {
+                                "tanggal": "2024-06-25",
+                                "value": 12684,
+                                "kurs": 16379,
+                                "valueAsing": 774.41
+                            },
+                            {
+                                "tanggal": "2024-06-26",
+                                "value": 12750,
+                                "kurs": 16435,
+                                "valueAsing": 775.78
+                            },
+                            {
+                                "tanggal": "2024-06-27",
+                                "value": 12758,
+                                "kurs": 16421,
+                                "valueAsing": 776.93
+                            },
+                            {
+                                "tanggal": "2024-06-28",
+                                "value": 12856,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            }
+                        ]
+                    },
+                    {
+                        "month": 7,
+                        "average": 12899.12,
+                        "averageAsing": 793.11,
+                        "detail": [
+                            {
+                                "tanggal": "2024-07-01",
+                                "value": 13000,
+                                "kurs": 16355,
+                                "valueAsing": 794.86
+                            },
+                            {
+                                "tanggal": "2024-07-02",
+                                "value": 13185,
+                                "kurs": 16384,
+                                "valueAsing": 804.75
+                            },
+                            {
+                                "tanggal": "2024-07-03",
+                                "value": 13170,
+                                "kurs": 16387,
+                                "valueAsing": 803.69
+                            },
+                            {
+                                "tanggal": "2024-07-04",
+                                "value": 13225,
+                                "kurs": 16341,
+                                "valueAsing": 809.31
+                            },
+                            {
+                                "tanggal": "2024-07-05",
+                                "value": 13200,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2024-07-08",
+                                "value": 13175,
+                                "kurs": 16265,
+                                "valueAsing": 810.02
+                            },
+                            {
+                                "tanggal": "2024-07-09",
+                                "value": 12887.99,
+                                "kurs": 16281,
+                                "valueAsing": 791.6
+                            },
+                            {
+                                "tanggal": "2024-07-09",
+                                "value": 12888,
+                                "kurs": 16281,
+                                "valueAsing": 791.6
+                            },
+                            {
+                                "tanggal": "2024-07-10",
+                                "value": 12638,
+                                "kurs": 16256,
+                                "valueAsing": 777.44
+                            },
+                            {
+                                "tanggal": "2024-07-11",
+                                "value": 12718,
+                                "kurs": 16200,
+                                "valueAsing": 785.06
+                            },
+                            {
+                                "tanggal": "2024-07-12",
+                                "value": 12729,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2024-07-15",
+                                "value": 12640,
+                                "kurs": 16174,
+                                "valueAsing": 781.5
+                            },
+                            {
+                                "tanggal": "2024-07-16",
+                                "value": 12723,
+                                "kurs": 16203,
+                                "valueAsing": 785.22
+                            },
+                            {
+                                "tanggal": "2024-07-17",
+                                "value": 12738,
+                                "kurs": 16129,
+                                "valueAsing": 789.76
+                            },
+                            {
+                                "tanggal": "2024-07-18",
+                                "value": 12740,
+                                "kurs": 16160,
+                                "valueAsing": 788.37
+                            },
+                            {
+                                "tanggal": "2024-07-19",
+                                "value": 12725,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2024-07-22",
+                                "value": 12810,
+                                "kurs": 16228,
+                                "valueAsing": 789.38
+                            },
+                            {
+                                "tanggal": "2024-07-23",
+                                "value": 12804,
+                                "kurs": 16204,
+                                "valueAsing": 790.18
+                            },
+                            {
+                                "tanggal": "2024-07-24",
+                                "value": 12757,
+                                "kurs": 16224,
+                                "valueAsing": 786.3
+                            },
+                            {
+                                "tanggal": "2024-07-25",
+                                "value": 12775,
+                                "kurs": 16268,
+                                "valueAsing": 785.28
+                            },
+                            {
+                                "tanggal": "2024-07-26",
+                                "value": 12965,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2024-07-29",
+                                "value": 13000,
+                                "kurs": 16286,
+                                "valueAsing": 798.23
+                            },
+                            {
+                                "tanggal": "2024-07-30",
+                                "value": 13050,
+                                "kurs": 16320,
+                                "valueAsing": 799.63
+                            },
+                            {
+                                "tanggal": "2024-07-31",
+                                "value": 13036,
+                                "kurs": 16294,
+                                "valueAsing": 800.05
+                            }
+                        ]
+                    },
+                    {
+                        "month": 8,
+                        "average": 12940.59,
+                        "averageAsing": 821.17,
+                        "detail": [
+                            {
+                                "tanggal": "2024-08-01",
+                                "value": 13040,
+                                "kurs": 16243,
+                                "valueAsing": 802.81
+                            },
+                            {
+                                "tanggal": "2024-08-02",
+                                "value": 13105,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2024-08-05",
+                                "value": 13209,
+                                "kurs": 16154,
+                                "valueAsing": 817.69
+                            },
+                            {
+                                "tanggal": "2024-08-06",
+                                "value": 13119,
+                                "kurs": 16183,
+                                "valueAsing": 810.67
+                            },
+                            {
+                                "tanggal": "2024-08-07",
+                                "value": 13054,
+                                "kurs": 16100,
+                                "valueAsing": 810.81
+                            },
+                            {
+                                "tanggal": "2024-08-08",
+                                "value": 12939,
+                                "kurs": 15952,
+                                "valueAsing": 811.12
+                            },
+                            {
+                                "tanggal": "2024-08-09",
+                                "value": 12918,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2024-08-12",
+                                "value": 12830,
+                                "kurs": 15963,
+                                "valueAsing": 803.73
+                            },
+                            {
+                                "tanggal": "2024-08-13",
+                                "value": 12782,
+                                "kurs": 15885,
+                                "valueAsing": 804.66
+                            },
+                            {
+                                "tanggal": "2024-08-14",
+                                "value": 12677,
+                                "kurs": 15691,
+                                "valueAsing": 807.92
+                            },
+                            {
+                                "tanggal": "2024-08-15",
+                                "value": 12520,
+                                "kurs": 15687,
+                                "valueAsing": 798.11
+                            },
+                            {
+                                "tanggal": "2024-08-16",
+                                "value": 12588,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2024-08-19",
+                                "value": 12625,
+                                "kurs": 15591,
+                                "valueAsing": 809.76
+                            },
+                            {
+                                "tanggal": "2024-08-20",
+                                "value": 12675,
+                                "kurs": 15480,
+                                "valueAsing": 818.8
+                            },
+                            {
+                                "tanggal": "2024-08-21",
+                                "value": 12745,
+                                "kurs": 15456,
+                                "valueAsing": 824.6
+                            },
+                            {
+                                "tanggal": "2024-08-22",
+                                "value": 12868,
+                                "kurs": 15579,
+                                "valueAsing": 825.98
+                            },
+                            {
+                                "tanggal": "2024-08-23",
+                                "value": 12959,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2024-08-26",
+                                "value": 13089,
+                                "kurs": 15380,
+                                "valueAsing": 851.04
+                            },
+                            {
+                                "tanggal": "2024-08-27",
+                                "value": 13233,
+                                "kurs": 15509,
+                                "valueAsing": 853.25
+                            },
+                            {
+                                "tanggal": "2024-08-28",
+                                "value": 13235,
+                                "kurs": 15476,
+                                "valueAsing": 855.2
+                            },
+                            {
+                                "tanggal": "2024-08-29",
+                                "value": 13155,
+                                "kurs": 15409,
+                                "valueAsing": 853.72
+                            },
+                            {
+                                "tanggal": "2024-08-30",
+                                "value": 13328,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            }
+                        ]
+                    },
+                    {
+                        "month": 9,
+                        "average": 13353.3,
+                        "averageAsing": 870.03,
+                        "detail": [
+                            {
+                                "tanggal": "2024-09-02",
+                                "value": 13242,
+                                "kurs": 15536,
+                                "valueAsing": 852.34
+                            },
+                            {
+                                "tanggal": "2024-09-03",
+                                "value": 13342,
+                                "kurs": 15557,
+                                "valueAsing": 857.62
+                            },
+                            {
+                                "tanggal": "2024-09-04",
+                                "value": 13212,
+                                "kurs": 15490,
+                                "valueAsing": 852.94
+                            },
+                            {
+                                "tanggal": "2024-09-05",
+                                "value": 13131,
+                                "kurs": 15410,
+                                "valueAsing": 852.11
+                            },
+                            {
+                                "tanggal": "2024-09-06",
+                                "value": 13100,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2024-09-09",
+                                "value": 13058,
+                                "kurs": 15446,
+                                "valueAsing": 845.4
+                            },
+                            {
+                                "tanggal": "2024-09-10",
+                                "value": 13089,
+                                "kurs": 15447,
+                                "valueAsing": 847.35
+                            },
+                            {
+                                "tanggal": "2024-09-11",
+                                "value": 13118,
+                                "kurs": 15415,
+                                "valueAsing": 850.99
+                            },
+                            {
+                                "tanggal": "2024-09-12",
+                                "value": 13070,
+                                "kurs": 15421,
+                                "valueAsing": 847.55
+                            },
+                            {
+                                "tanggal": "2024-09-13",
+                                "value": 13035,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2024-09-17",
+                                "value": 12925,
+                                "kurs": 15338,
+                                "valueAsing": 842.68
+                            },
+                            {
+                                "tanggal": "2024-09-18",
+                                "value": 13100,
+                                "kurs": 15350,
+                                "valueAsing": 853.42
+                            },
+                            {
+                                "tanggal": "2024-09-19",
+                                "value": 13358,
+                                "kurs": 15287,
+                                "valueAsing": 873.81
+                            },
+                            {
+                                "tanggal": "2024-09-20",
+                                "value": 13407,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2024-09-23",
+                                "value": 13640,
+                                "kurs": 15191,
+                                "valueAsing": 897.9
+                            },
+                            {
+                                "tanggal": "2024-09-24",
+                                "value": 13570,
+                                "kurs": 15186,
+                                "valueAsing": 893.59
+                            },
+                            {
+                                "tanggal": "2024-09-25",
+                                "value": 13759,
+                                "kurs": 15092,
+                                "valueAsing": 911.68
+                            },
+                            {
+                                "tanggal": "2024-09-26",
+                                "value": 13928,
+                                "kurs": 15171,
+                                "valueAsing": 918.07
+                            },
+                            {
+                                "tanggal": "2024-09-27",
+                                "value": 14004,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2024-09-30",
+                                "value": 13978,
+                                "kurs": 15144,
+                                "valueAsing": 923.01
+                            }
+                        ]
+                    },
+                    {
+                        "month": 10,
+                        "average": 14278.52,
+                        "averageAsing": 916.44,
+                        "detail": [
+                            {
+                                "tanggal": "2024-10-01",
+                                "value": 14106,
+                                "kurs": 15204,
+                                "valueAsing": 927.78
+                            },
+                            {
+                                "tanggal": "2024-10-02",
+                                "value": 14027,
+                                "kurs": 15247,
+                                "valueAsing": 919.98
+                            },
+                            {
+                                "tanggal": "2024-10-03",
+                                "value": 14138,
+                                "kurs": 15394,
+                                "valueAsing": 918.41
+                            },
+                            {
+                                "tanggal": "2024-10-04",
+                                "value": 14322,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2024-10-07",
+                                "value": 14242,
+                                "kurs": 15680,
+                                "valueAsing": 908.29
+                            },
+                            {
+                                "tanggal": "2024-10-08",
+                                "value": 14040,
+                                "kurs": 15671,
+                                "valueAsing": 895.92
+                            },
+                            {
+                                "tanggal": "2024-10-09",
+                                "value": 14078,
+                                "kurs": 15607,
+                                "valueAsing": 902.03
+                            },
+                            {
+                                "tanggal": "2024-10-10",
+                                "value": 14029,
+                                "kurs": 15658,
+                                "valueAsing": 895.96
+                            },
+                            {
+                                "tanggal": "2024-10-11",
+                                "value": 14262,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2024-10-14",
+                                "value": 14135,
+                                "kurs": 15581,
+                                "valueAsing": 907.19
+                            },
+                            {
+                                "tanggal": "2024-10-15",
+                                "value": 13977,
+                                "kurs": 15555,
+                                "valueAsing": 898.55
+                            },
+                            {
+                                "tanggal": "2024-10-16",
+                                "value": 14111,
+                                "kurs": 15536,
+                                "valueAsing": 908.28
+                            },
+                            {
+                                "tanggal": "2024-10-17",
+                                "value": 14038,
+                                "kurs": 15516,
+                                "valueAsing": 904.74
+                            },
+                            {
+                                "tanggal": "2024-10-18",
+                                "value": 14000,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2024-10-21",
+                                "value": 14020,
+                                "kurs": 15465,
+                                "valueAsing": 906.56
+                            },
+                            {
+                                "tanggal": "2024-10-22",
+                                "value": 14183,
+                                "kurs": 15560,
+                                "valueAsing": 911.5
+                            },
+                            {
+                                "tanggal": "2024-10-23",
+                                "value": 14337,
+                                "kurs": 15620,
+                                "valueAsing": 917.86
+                            },
+                            {
+                                "tanggal": "2024-10-24",
+                                "value": 14507,
+                                "kurs": 15593,
+                                "valueAsing": 930.35
+                            },
+                            {
+                                "tanggal": "2024-10-25",
+                                "value": 14721,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2024-10-28",
+                                "value": 14685,
+                                "kurs": 15729,
+                                "valueAsing": 933.63
+                            },
+                            {
+                                "tanggal": "2024-10-29",
+                                "value": 14750,
+                                "kurs": 15760,
+                                "valueAsing": 935.91
+                            },
+                            {
+                                "tanggal": "2024-10-30",
+                                "value": 14810,
+                                "kurs": 15732,
+                                "valueAsing": 941.39
+                            },
+                            {
+                                "tanggal": "2024-10-31",
+                                "value": 14888,
+                                "kurs": 15705,
+                                "valueAsing": 947.98
+                            }
+                        ]
+                    },
+                    {
+                        "month": 11,
+                        "average": 15312.25,
+                        "averageAsing": 969.59,
+                        "detail": [
+                            {
+                                "tanggal": "2024-11-01",
+                                "value": 15118,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2024-11-04",
+                                "value": 15350,
+                                "kurs": 15751,
+                                "valueAsing": 974.54
+                            },
+                            {
+                                "tanggal": "2024-11-05",
+                                "value": 15310,
+                                "kurs": 15766,
+                                "valueAsing": 971.08
+                            },
+                            {
+                                "tanggal": "2024-11-06",
+                                "value": 15330,
+                                "kurs": 15840,
+                                "valueAsing": 967.8
+                            },
+                            {
+                                "tanggal": "2024-11-07",
+                                "value": 15430,
+                                "kurs": 15767,
+                                "valueAsing": 978.63
+                            },
+                            {
+                                "tanggal": "2024-11-08",
+                                "value": 15544,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2024-11-11",
+                                "value": 15788,
+                                "kurs": 15677,
+                                "valueAsing": 1007.08
+                            },
+                            {
+                                "tanggal": "2024-11-12",
+                                "value": 15738,
+                                "kurs": 15771,
+                                "valueAsing": 997.91
+                            },
+                            {
+                                "tanggal": "2024-11-13",
+                                "value": 15367,
+                                "kurs": 15782,
+                                "valueAsing": 973.7
+                            },
+                            {
+                                "tanggal": "2024-11-14",
+                                "value": 15254,
+                                "kurs": 15873,
+                                "valueAsing": 961
+                            },
+                            {
+                                "tanggal": "2024-11-15",
+                                "value": 15350,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2024-11-18",
+                                "value": 15255,
+                                "kurs": 15848,
+                                "valueAsing": 962.58
+                            },
+                            {
+                                "tanggal": "2024-11-19",
+                                "value": 15365,
+                                "kurs": 15816,
+                                "valueAsing": 971.48
+                            },
+                            {
+                                "tanggal": "2024-11-20",
+                                "value": 15275,
+                                "kurs": 15858,
+                                "valueAsing": 963.24
+                            },
+                            {
+                                "tanggal": "2024-11-21",
+                                "value": 15000,
+                                "kurs": 15942,
+                                "valueAsing": 940.91
+                            },
+                            {
+                                "tanggal": "2024-11-22",
+                                "value": 14813,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2024-11-25",
+                                "value": 14964,
+                                "kurs": 15864,
+                                "valueAsing": 943.27
+                            },
+                            {
+                                "tanggal": "2024-11-26",
+                                "value": 15165,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2024-11-28",
+                                "value": 15245,
+                                "kurs": 15864,
+                                "valueAsing": 960.98
+                            },
+                            {
+                                "tanggal": "2024-11-29",
+                                "value": 15584,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            }
+                        ]
+                    },
+                    {
+                        "month": 12,
+                        "average": 15447,
+                        "averageAsing": 972.2,
+                        "detail": [
+                            {
+                                "tanggal": "2024-12-02",
+                                "value": 15656,
+                                "kurs": 15905,
+                                "valueAsing": 984.34
+                            },
+                            {
+                                "tanggal": "2024-12-03",
+                                "value": 15788,
+                                "kurs": 15950,
+                                "valueAsing": 989.84
+                            },
+                            {
+                                "tanggal": "2024-12-04",
+                                "value": 15900,
+                                "kurs": 15957,
+                                "valueAsing": 996.43
+                            },
+                            {
+                                "tanggal": "2024-12-05",
+                                "value": 15976,
+                                "kurs": 15892,
+                                "valueAsing": 1005.29
+                            },
+                            {
+                                "tanggal": "2024-12-06",
+                                "value": 16000,
+                                "kurs": 15892,
+                                "valueAsing": 1006.8
+                            },
+                            {
+                                "tanggal": "2024-12-09",
+                                "value": 15940,
+                                "kurs": 15861,
+                                "valueAsing": 1004.98
+                            },
+                            {
+                                "tanggal": "2024-12-10",
+                                "value": 15760,
+                                "kurs": 15874,
+                                "valueAsing": 992.82
+                            },
+                            {
+                                "tanggal": "2024-12-11",
+                                "value": 15675,
+                                "kurs": 15905,
+                                "valueAsing": 985.54
+                            },
+                            {
+                                "tanggal": "2024-12-12",
+                                "value": 15602,
+                                "kurs": 15939,
+                                "valueAsing": 978.86
+                            },
+                            {
+                                "tanggal": "2024-12-13",
+                                "value": 15553,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2024-12-16",
+                                "value": 15589,
+                                "kurs": 16019,
+                                "valueAsing": 973.16
+                            },
+                            {
+                                "tanggal": "2024-12-17",
+                                "value": 15327,
+                                "kurs": 16050,
+                                "valueAsing": 954.95
+                            },
+                            {
+                                "tanggal": "2024-12-18",
+                                "value": 14919,
+                                "kurs": 16100,
+                                "valueAsing": 926.65
+                            },
+                            {
+                                "tanggal": "2024-12-19",
+                                "value": 14646,
+                                "kurs": 16277,
+                                "valueAsing": 899.8
+                            },
+                            {
+                                "tanggal": "2024-12-20",
+                                "value": 14684,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2024-12-23",
+                                "value": 14726,
+                                "kurs": 16159,
+                                "valueAsing": 911.32
+                            },
+                            {
+                                "tanggal": "2024-12-24",
+                                "value": 14858,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "year": 2025,
+                "months": [
+                    {
+                        "month": 1,
+                        "average": 13908.83,
+                        "averageAsing": 855.1,
+                        "detail": [
+                            {
+                                "tanggal": "2025-01-03",
+                                "value": 14454,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2025-01-06",
+                                "value": 14253,
+                                "kurs": 16193,
+                                "valueAsing": 880.2
+                            },
+                            {
+                                "tanggal": "2025-01-07",
+                                "value": 14157,
+                                "kurs": 16169,
+                                "valueAsing": 875.56
+                            },
+                            {
+                                "tanggal": "2025-01-08",
+                                "value": 14069,
+                                "kurs": 16201,
+                                "valueAsing": 868.4
+                            },
+                            {
+                                "tanggal": "2025-01-09",
+                                "value": 13852,
+                                "kurs": 16238,
+                                "valueAsing": 853.06
+                            },
+                            {
+                                "tanggal": "2025-01-10",
+                                "value": 13895,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2025-01-13",
+                                "value": 14206,
+                                "kurs": 16281,
+                                "valueAsing": 872.55
+                            },
+                            {
+                                "tanggal": "2025-01-14",
+                                "value": 14188,
+                                "kurs": 16265,
+                                "valueAsing": 872.3
+                            },
+                            {
+                                "tanggal": "2025-01-15",
+                                "value": 14000,
+                                "kurs": 16311,
+                                "valueAsing": 858.32
+                            },
+                            {
+                                "tanggal": "2025-01-16",
+                                "value": 13712,
+                                "kurs": 16378,
+                                "valueAsing": 837.22
+                            },
+                            {
+                                "tanggal": "2025-01-17",
+                                "value": 13585,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2025-01-20",
+                                "value": 13725,
+                                "kurs": 16372,
+                                "valueAsing": 838.32
+                            },
+                            {
+                                "tanggal": "2025-01-21",
+                                "value": 13816,
+                                "kurs": 16331,
+                                "valueAsing": 846
+                            },
+                            {
+                                "tanggal": "2025-01-22",
+                                "value": 13670,
+                                "kurs": 16327,
+                                "valueAsing": 837.26
+                            },
+                            {
+                                "tanggal": "2025-01-23",
+                                "value": 13533,
+                                "kurs": 16276,
+                                "valueAsing": 831.47
+                            },
+                            {
+                                "tanggal": "2025-01-24",
+                                "value": 13605,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2025-01-30",
+                                "value": 13750,
+                                "kurs": 16259,
+                                "valueAsing": 845.69
+                            },
+                            {
+                                "tanggal": "2025-01-31",
+                                "value": 13889,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            }
+                        ]
+                    },
+                    {
+                        "month": 2,
+                        "average": 14847.35,
+                        "averageAsing": 906.1,
+                        "detail": [
+                            {
+                                "tanggal": "2025-02-03",
+                                "value": 14100,
+                                "kurs": 16453,
+                                "valueAsing": 856.99
+                            },
+                            {
+                                "tanggal": "2025-02-04",
+                                "value": 14008,
+                                "kurs": 16365,
+                                "valueAsing": 855.97
+                            },
+                            {
+                                "tanggal": "2025-02-05",
+                                "value": 14150,
+                                "kurs": 16308,
+                                "valueAsing": 867.67
+                            },
+                            {
+                                "tanggal": "2025-02-06",
+                                "value": 14265,
+                                "kurs": 16330,
+                                "valueAsing": 873.55
+                            },
+                            {
+                                "tanggal": "2025-02-07",
+                                "value": 14500,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2025-02-10",
+                                "value": 14639,
+                                "kurs": 16350,
+                                "valueAsing": 895.35
+                            },
+                            {
+                                "tanggal": "2025-02-11",
+                                "value": 14740,
+                                "kurs": 16380,
+                                "valueAsing": 899.88
+                            },
+                            {
+                                "tanggal": "2025-02-12",
+                                "value": 15000,
+                                "kurs": 16364,
+                                "valueAsing": 916.65
+                            },
+                            {
+                                "tanggal": "2025-02-13",
+                                "value": 14802,
+                                "kurs": 16365,
+                                "valueAsing": 904.49
+                            },
+                            {
+                                "tanggal": "2025-02-14",
+                                "value": 14888,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2025-02-17",
+                                "value": 14850,
+                                "kurs": 16208,
+                                "valueAsing": 916.21
+                            },
+                            {
+                                "tanggal": "2025-02-18",
+                                "value": 14900,
+                                "kurs": 16275,
+                                "valueAsing": 915.51
+                            },
+                            {
+                                "tanggal": "2025-02-19",
+                                "value": 15140,
+                                "kurs": 16357,
+                                "valueAsing": 925.6
+                            },
+                            {
+                                "tanggal": "2025-02-20",
+                                "value": 15275,
+                                "kurs": 16344,
+                                "valueAsing": 934.59
+                            },
+                            {
+                                "tanggal": "2025-02-21",
+                                "value": 15425,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2025-02-24",
+                                "value": 15275,
+                                "kurs": 16303,
+                                "valueAsing": 936.94
+                            },
+                            {
+                                "tanggal": "2025-02-25",
+                                "value": 15400,
+                                "kurs": 16316,
+                                "valueAsing": 943.86
+                            },
+                            {
+                                "tanggal": "2025-02-26",
+                                "value": 15320,
+                                "kurs": 16387,
+                                "valueAsing": 934.89
+                            },
+                            {
+                                "tanggal": "2025-02-27",
+                                "value": 15108,
+                                "kurs": 16431,
+                                "valueAsing": 919.48
+                            },
+                            {
+                                "tanggal": "2025-02-28",
+                                "value": 15162,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            }
+                        ]
+                    },
+                    {
+                        "month": 3,
+                        "average": 15081.07,
+                        "averageAsing": 913.54,
+                        "detail": [
+                            {
+                                "tanggal": "2025-03-03",
+                                "value": 15000,
+                                "kurs": 16506,
+                                "valueAsing": 908.76
+                            },
+                            {
+                                "tanggal": "2025-03-04",
+                                "value": 14740,
+                                "kurs": 16443,
+                                "valueAsing": 896.43
+                            },
+                            {
+                                "tanggal": "2025-03-05",
+                                "value": 14800,
+                                "kurs": 16371,
+                                "valueAsing": 904.04
+                            },
+                            {
+                                "tanggal": "2025-03-06",
+                                "value": 14933,
+                                "kurs": 16315,
+                                "valueAsing": 915.29
+                            },
+                            {
+                                "tanggal": "2025-03-07",
+                                "value": 15135,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2025-03-10",
+                                "value": 15105,
+                                "kurs": 16326,
+                                "valueAsing": 925.21
+                            },
+                            {
+                                "tanggal": "2025-03-11",
+                                "value": 14980,
+                                "kurs": 16430,
+                                "valueAsing": 911.75
+                            },
+                            {
+                                "tanggal": "2025-03-12",
+                                "value": 15075,
+                                "kurs": 16453,
+                                "valueAsing": 916.25
+                            },
+                            {
+                                "tanggal": "2025-03-13",
+                                "value": 15150,
+                                "kurs": 16428,
+                                "valueAsing": 922.21
+                            },
+                            {
+                                "tanggal": "2025-03-14",
+                                "value": 15150,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2025-03-17",
+                                "value": 15100,
+                                "kurs": 16379,
+                                "valueAsing": 921.91
+                            },
+                            {
+                                "tanggal": "2025-03-18",
+                                "value": 15050,
+                                "kurs": 16432,
+                                "valueAsing": 915.9
+                            },
+                            {
+                                "tanggal": "2025-03-19",
+                                "value": 15118,
+                                "kurs": 16528,
+                                "valueAsing": 914.69
+                            },
+                            {
+                                "tanggal": "2025-03-19",
+                                "value": 15234,
+                                "kurs": 16528,
+                                "valueAsing": 921.71
+                            },
+                            {
+                                "tanggal": "2025-03-19",
+                                "value": 15531,
+                                "kurs": 16528,
+                                "valueAsing": 939.68
+                            },
+                            {
+                                "tanggal": "2025-03-20",
+                                "value": 15167,
+                                "kurs": 16481,
+                                "valueAsing": 920.27
+                            },
+                            {
+                                "tanggal": "2025-03-20",
+                                "value": 15282,
+                                "kurs": 16481,
+                                "valueAsing": 927.25
+                            },
+                            {
+                                "tanggal": "2025-03-20",
+                                "value": 15579,
+                                "kurs": 16481,
+                                "valueAsing": 945.27
+                            },
+                            {
+                                "tanggal": "2025-03-21",
+                                "value": 14988,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2025-03-21",
+                                "value": 15103,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2025-03-21",
+                                "value": 15400,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2025-03-24",
+                                "value": 14843,
+                                "kurs": 16561,
+                                "valueAsing": 896.26
+                            },
+                            {
+                                "tanggal": "2025-03-25",
+                                "value": 14781,
+                                "kurs": 16622,
+                                "valueAsing": 889.24
+                            },
+                            {
+                                "tanggal": "2025-03-25",
+                                "value": 14898,
+                                "kurs": 16622,
+                                "valueAsing": 896.28
+                            },
+                            {
+                                "tanggal": "2025-03-25",
+                                "value": 15197,
+                                "kurs": 16622,
+                                "valueAsing": 914.27
+                            },
+                            {
+                                "tanggal": "2025-03-26",
+                                "value": 14800,
+                                "kurs": 16588,
+                                "valueAsing": 892.21
+                            },
+                            {
+                                "tanggal": "2025-03-26",
+                                "value": 14916,
+                                "kurs": 16588,
+                                "valueAsing": 899.2
+                            },
+                            {
+                                "tanggal": "2025-03-26",
+                                "value": 15215,
+                                "kurs": 16588,
+                                "valueAsing": 917.23
+                            }
+                        ]
+                    },
+                    {
+                        "month": 4,
+                        "average": 14273.35,
+                        "averageAsing": 847.57,
+                        "detail": [
+                            {
+                                "tanggal": "2025-04-09",
+                                "value": 14288,
+                                "kurs": 16943,
+                                "valueAsing": 843.3
+                            },
+                            {
+                                "tanggal": "2025-04-09",
+                                "value": 14407,
+                                "kurs": 16943,
+                                "valueAsing": 850.32
+                            },
+                            {
+                                "tanggal": "2025-04-09",
+                                "value": 14711,
+                                "kurs": 16943,
+                                "valueAsing": 868.26
+                            },
+                            {
+                                "tanggal": "2025-04-10",
+                                "value": 14387,
+                                "kurs": 16779,
+                                "valueAsing": 857.44
+                            },
+                            {
+                                "tanggal": "2025-04-11",
+                                "value": 14325,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2025-04-14",
+                                "value": 14260,
+                                "kurs": 16773,
+                                "valueAsing": 850.18
+                            },
+                            {
+                                "tanggal": "2025-04-15",
+                                "value": 14177,
+                                "kurs": 16815,
+                                "valueAsing": 843.12
+                            },
+                            {
+                                "tanggal": "2025-04-16",
+                                "value": 14100,
+                                "kurs": 16845,
+                                "valueAsing": 837.04
+                            },
+                            {
+                                "tanggal": "2025-04-17",
+                                "value": 14225,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2025-04-21",
+                                "value": 14001,
+                                "kurs": 16808,
+                                "valueAsing": 833
+                            },
+                            {
+                                "tanggal": "2025-04-22",
+                                "value": 14401,
+                                "kurs": 16862,
+                                "valueAsing": 854.05
+                            },
+                            {
+                                "tanggal": "2025-04-23",
+                                "value": 14501,
+                                "kurs": 16880,
+                                "valueAsing": 859.06
+                            },
+                            {
+                                "tanggal": "2025-04-24",
+                                "value": 14488,
+                                "kurs": 16884,
+                                "valueAsing": 858.09
+                            },
+                            {
+                                "tanggal": "2025-04-25",
+                                "value": 14470,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2025-04-28",
+                                "value": 14006,
+                                "kurs": 16862,
+                                "valueAsing": 830.63
+                            },
+                            {
+                                "tanggal": "2025-04-29",
+                                "value": 14000,
+                                "kurs": 16787,
+                                "valueAsing": 833.98
+                            },
+                            {
+                                "tanggal": "2025-04-30",
+                                "value": 13900,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            }
+                        ]
+                    },
+                    {
+                        "month": 5,
+                        "average": 13319.41,
+                        "averageAsing": 809.37,
+                        "detail": [
+                            {
+                                "tanggal": "2025-05-02",
+                                "value": 13891,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2025-05-05",
+                                "value": 13500,
+                                "kurs": 16421,
+                                "valueAsing": 822.12
+                            },
+                            {
+                                "tanggal": "2025-05-06",
+                                "value": 13316,
+                                "kurs": 16472,
+                                "valueAsing": 808.4
+                            },
+                            {
+                                "tanggal": "2025-05-07",
+                                "value": 13130,
+                                "kurs": 16533,
+                                "valueAsing": 794.17
+                            },
+                            {
+                                "tanggal": "2025-05-08",
+                                "value": 13100,
+                                "kurs": 16497,
+                                "valueAsing": 794.08
+                            },
+                            {
+                                "tanggal": "2025-05-09",
+                                "value": 13150,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2025-05-14",
+                                "value": 13422,
+                                "kurs": 16568,
+                                "valueAsing": 810.12
+                            },
+                            {
+                                "tanggal": "2025-05-15",
+                                "value": 13373,
+                                "kurs": 16535,
+                                "valueAsing": 808.77
+                            },
+                            {
+                                "tanggal": "2025-05-16",
+                                "value": 13211,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2025-05-19",
+                                "value": 13256,
+                                "kurs": 16455,
+                                "valueAsing": 805.59
+                            },
+                            {
+                                "tanggal": "2025-05-20",
+                                "value": 13350,
+                                "kurs": 16406,
+                                "valueAsing": 813.73
+                            },
+                            {
+                                "tanggal": "2025-05-21",
+                                "value": 13400,
+                                "kurs": 16413,
+                                "valueAsing": 816.43
+                            },
+                            {
+                                "tanggal": "2025-05-22",
+                                "value": 13350,
+                                "kurs": 16313,
+                                "valueAsing": 818.37
+                            },
+                            {
+                                "tanggal": "2025-05-23",
+                                "value": 13361,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2025-05-26",
+                                "value": 13125,
+                                "kurs": 16207,
+                                "valueAsing": 809.84
+                            },
+                            {
+                                "tanggal": "2025-05-27",
+                                "value": 13180,
+                                "kurs": 16255,
+                                "valueAsing": 810.83
+                            },
+                            {
+                                "tanggal": "2025-05-28",
+                                "value": 13315,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            }
+                        ]
+                    },
+                    {
+                        "month": 6,
+                        "average": 13466.39,
+                        "averageAsing": 825.53,
+                        "detail": [
+                            {
+                                "tanggal": "2025-06-02",
+                                "value": 13331,
+                                "kurs": 16297,
+                                "valueAsing": 818
+                            },
+                            {
+                                "tanggal": "2025-06-03",
+                                "value": 13386,
+                                "kurs": 16288,
+                                "valueAsing": 821.83
+                            },
+                            {
+                                "tanggal": "2025-06-04",
+                                "value": 13385,
+                                "kurs": 16305,
+                                "valueAsing": 820.91
+                            },
+                            {
+                                "tanggal": "2025-06-05",
+                                "value": 13343,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2025-06-10",
+                                "value": 13328,
+                                "kurs": 16276,
+                                "valueAsing": 818.87
+                            },
+                            {
+                                "tanggal": "2025-06-11",
+                                "value": 13145,
+                                "kurs": 16265,
+                                "valueAsing": 808.18
+                            },
+                            {
+                                "tanggal": "2025-06-12",
+                                "value": 13225,
+                                "kurs": 16237,
+                                "valueAsing": 814.5
+                            },
+                            {
+                                "tanggal": "2025-06-13",
+                                "value": 13360,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2025-06-16",
+                                "value": 13600,
+                                "kurs": 16296,
+                                "valueAsing": 834.56
+                            },
+                            {
+                                "tanggal": "2025-06-17",
+                                "value": 13600,
+                                "kurs": 16281,
+                                "valueAsing": 835.33
+                            },
+                            {
+                                "tanggal": "2025-06-18",
+                                "value": 13615,
+                                "kurs": 16319,
+                                "valueAsing": 834.3
+                            },
+                            {
+                                "tanggal": "2025-06-19",
+                                "value": 13677,
+                                "kurs": 16378,
+                                "valueAsing": 835.08
+                            },
+                            {
+                                "tanggal": "2025-06-20",
+                                "value": 13655,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2025-06-23",
+                                "value": 13730,
+                                "kurs": 16484,
+                                "valueAsing": 832.93
+                            },
+                            {
+                                "tanggal": "2025-06-24",
+                                "value": 13415,
+                                "kurs": 16370,
+                                "valueAsing": 819.49
+                            },
+                            {
+                                "tanggal": "2025-06-25",
+                                "value": 13500,
+                                "kurs": 16292,
+                                "valueAsing": 828.63
+                            },
+                            {
+                                "tanggal": "2025-06-26",
+                                "value": 13550,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2025-06-30",
+                                "value": 13550,
+                                "kurs": 16231,
+                                "valueAsing": 834.82
+                            }
+                        ]
+                    },
+                    {
+                        "month": 7,
+                        "average": 14254.36,
+                        "averageAsing": 874.01,
+                        "detail": [
+                            {
+                                "tanggal": "2025-07-01",
+                                "value": 13575,
+                                "kurs": 16192,
+                                "valueAsing": 838.38
+                            },
+                            {
+                                "tanggal": "2025-07-02",
+                                "value": 13700,
+                                "kurs": 16236,
+                                "valueAsing": 843.8
+                            },
+                            {
+                                "tanggal": "2025-07-03",
+                                "value": 13800,
+                                "kurs": 16209,
+                                "valueAsing": 851.38
+                            },
+                            {
+                                "tanggal": "2025-07-04",
+                                "value": 13850,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2025-07-07",
+                                "value": 13900,
+                                "kurs": 16237,
+                                "valueAsing": 856.07
+                            },
+                            {
+                                "tanggal": "2025-07-08",
+                                "value": 13975,
+                                "kurs": 16238,
+                                "valueAsing": 860.64
+                            },
+                            {
+                                "tanggal": "2025-07-09",
+                                "value": 14100,
+                                "kurs": 16254,
+                                "valueAsing": 867.48
+                            },
+                            {
+                                "tanggal": "2025-07-10",
+                                "value": 14100,
+                                "kurs": 16220,
+                                "valueAsing": 869.3
+                            },
+                            {
+                                "tanggal": "2025-07-11",
+                                "value": 14200,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2025-07-14",
+                                "value": 14245,
+                                "kurs": 16247,
+                                "valueAsing": 876.78
+                            },
+                            {
+                                "tanggal": "2025-07-15",
+                                "value": 14250,
+                                "kurs": 16281,
+                                "valueAsing": 875.25
+                            },
+                            {
+                                "tanggal": "2025-07-16",
+                                "value": 14350,
+                                "kurs": 16288,
+                                "valueAsing": 881.02
+                            },
+                            {
+                                "tanggal": "2025-07-17",
+                                "value": 14360,
+                                "kurs": 16329,
+                                "valueAsing": 879.42
+                            },
+                            {
+                                "tanggal": "2025-07-18",
+                                "value": 14555,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2025-07-21",
+                                "value": 14576,
+                                "kurs": 16330,
+                                "valueAsing": 892.59
+                            },
+                            {
+                                "tanggal": "2025-07-22",
+                                "value": 14550,
+                                "kurs": 16307,
+                                "valueAsing": 892.25
+                            },
+                            {
+                                "tanggal": "2025-07-23",
+                                "value": 14666,
+                                "kurs": 16298,
+                                "valueAsing": 899.87
+                            },
+                            {
+                                "tanggal": "2025-07-24",
+                                "value": 14625,
+                                "kurs": 16283,
+                                "valueAsing": 898.18
+                            },
+                            {
+                                "tanggal": "2025-07-25",
+                                "value": 14525,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            },
+                            {
+                                "tanggal": "2025-07-28",
+                                "value": 14494,
+                                "kurs": 16341,
+                                "valueAsing": 886.97
+                            },
+                            {
+                                "tanggal": "2025-07-29",
+                                "value": 14575,
+                                "kurs": 16399,
+                                "valueAsing": 888.77
+                            },
+                            {
+                                "tanggal": "2025-07-30",
+                                "value": 14625,
+                                "kurs": 0,
+                                "valueAsing": 0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "message": "Success to Fetch All Datas"
+}

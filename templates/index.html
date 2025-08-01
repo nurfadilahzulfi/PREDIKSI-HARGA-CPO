@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prediksi Harga CPO</title>
+</head>
+<body>
+    <h1>Prediksi Harga CPO (3 Bulan ke Depan)</h1>
+    <div id="grafik">
+        <p>Loading grafik...</p>
+    </div>
+    <script>
+        fetch("/predict")
+            .then(res => res.json())
+            .then(data => {
+                document.getElementById("grafik").innerHTML = `
+                    <img src="data:image/png;base64,${data.plot_url}" style="max-width:100%;">
+                    <h3>Harga Tanggal Akhir: ${data.predicted_dates.at(-1)}</h3>
+                    <h3>Harga Prediksi Tertinggi: ${Math.max(...data.predicted_prices).toFixed(2)}</h3>
+                `;
+            });
+    </script>
+</body>
+</html>
