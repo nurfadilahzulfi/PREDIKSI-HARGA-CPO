@@ -281,7 +281,10 @@ def main():
             y='Penetapan_Harga',
             title="Rata-rata Harga CPO per Bulan"
         )
-        fig_monthly.update_xaxis(tickangle=45)
+        # ✅ Perbaikan di sini - gunakan update_layout atau update_xaxes
+        fig_monthly.update_layout(xaxis_tickangle=45)
+        # Atau bisa juga: fig_monthly.update_xaxes(tickangle=45)
+        
         st.plotly_chart(fig_monthly, use_container_width=True)
 
 # Footer
